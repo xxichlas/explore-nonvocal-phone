@@ -1,0 +1,26 @@
+<annotation>
+	<folder>combined</folder>
+	<filename>D.10ece526-d73b-11ec-9d22-380025bf1728.jpg</filename>
+	<path>C:\workspaces\explore_sdd_sibi\collected\non vocal phone\additional BCDF\combined\D.10ece526-d73b-11ec-9d22-380025bf1728.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>D</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1303</xmin>
+			<ymin>996</ymin>
+			<xmax>2011</xmax>
+			<ymax>1778</ymax>
+		</bndbox>
+	</object>
+</annotation>
